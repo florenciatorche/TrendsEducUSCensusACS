@@ -20,7 +20,7 @@ Variables measuring educational attainment are operationalized somewhat differen
 
 ## Contents
 
-- `educ_attainment_by_gender.do`: Script to generate graphs of educational attainment.
+- [`educ_attainment_by_gender.do`](educ_attainment_by_gender.do): Stata script to generate graphs of educational attainment.
 - `README.md`: This file.
 
 ## Getting Started
@@ -34,7 +34,7 @@ To use these scripts, you will need Stata installed on your machine. Follow the 
 
 ### Running the Script
 
-1. **Create Graphs**: Run `create_graphs.do` to generate graphs displaying educational attainment across different birth cohorts.
+1. **Create Graphs**: Run [`educ_attainment_by_gender.do`](educ_attainment_by_gender.do) to generate graphs displaying educational attainment across different birth cohorts.
 
 ## Contributing
 
