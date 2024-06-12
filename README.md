@@ -1,4 +1,4 @@
-# TrendsEducUSCensusACS
+# Trends in Educational Attainment in the US
 
 These Stata files create graphs displaying educational attainment of the U.S. population across cohorts born 1915- 1997 using data from the U.S. Census and the American Community Survey (ACS).
 
