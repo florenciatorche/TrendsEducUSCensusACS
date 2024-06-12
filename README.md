@@ -20,7 +20,7 @@ Variables measuring educational attainment are operationalized somewhat differen
 
 ## Contents
 
-- `create_graphs.do`: Script to generate graphs of educational attainment.
+- `educ_attainment_by_gender.do`: Script to generate graphs of educational attainment.
 - `README.md`: This file.
 
 ## Getting Started
