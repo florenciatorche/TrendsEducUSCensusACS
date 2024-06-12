@@ -31,6 +31,7 @@ To use these scripts, you will need Stata installed on your machine. Follow the 
 
 - Stata software
 - Access to the U.S. Census and ACS data ([IPUMS USA](https://usa.ipums.org/usa/))
+- Extract the following variables from Census and ACS datasets: (1) Variables containing information about the survey: *year* (year of the Census or ACS sample), *sample* (IPUMS sample identifier), *pernum* (person number in sample unit), *perwt* (person weight), *slwt* (sample-line weight). Variables containing information about the survey participants: *sex* (person’s self-reported biological sex), *age* (continuous age), *race* and *raced* (general and detailed versions of race), *hispan* and *hispand* (general and detailed version of Hispanic origin), *bpl* and *bpld* (general and detailed versions of birthplace), *school* (school attendance), *higrade* and *higraded* (general and detailed versions of highest grade of schooling), *educ* and *educd* (general and detailed versions of educational attainment), *gradeatt* and *gradeattd* (general and detailed versions of current grade level attending.
 
 ### Running the Script
 
