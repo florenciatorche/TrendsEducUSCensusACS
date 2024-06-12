@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgements
 
-Stata code created by Claire Daviss, PhD candidate in Sociology, Stanford University.
+Stata code created by Claire Daviss, PhD candidate in Sociology, Stanford University ([email](cdaviss@stanford.edu)), ([Webpage](clairedaviss.com)).
